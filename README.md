@@ -8,3 +8,4 @@ This project supports a voice chat feature.
 Requirements:  
 - USB microphone and USB audio output  
 - Internet connection
+  Visit to: https://www.instructables.com/Raspberry-Pi5-AI-Voice-Chatgpt/
