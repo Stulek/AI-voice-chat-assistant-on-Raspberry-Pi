@@ -1,2 +1,10 @@
-# AI-voice-chat-assistant-on-Raspberry-Pi
-Raspberry pi 5 AI voice chatgpt with usb audio mic &amp; speaker, goal use PIO pins.
+## Voice Chat Support
+
+This project supports a voice chat feature.  
+- The microphone input continuously listens to speech.  
+- User questions are processed in real time.  
+- The responses are returned in audio form.  
+
+Requirements:  
+- USB microphone and USB audio output  
+- Internet connection
