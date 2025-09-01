@@ -6,6 +6,11 @@ This project supports a voice chat feature.
 - The responses are returned in audio form.  
 
 Requirements:  
-- USB microphone and USB audio output  
-- Internet connection
+- USB microphone and USB audio output.  
+- Internet connection.
+ 
   Visit to: https://www.instructables.com/Raspberry-Pi5-AI-Voice-Chatgpt/
+  Watch video: https://www.youtube.com/watch?v=_4BXl6KEPXo&t=55s&ab_channel=AtiStulek
+
+  Paste to terminal the voice_extension script.
+  
