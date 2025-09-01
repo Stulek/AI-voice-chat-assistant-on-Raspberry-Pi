@@ -13,5 +13,5 @@ Requirements:
 
   Watch video: https://www.youtube.com/watch?v=_4BXl6KEPXo&t=55s&ab_channel=AtiStulek
 
-  Paste to terminal the voice_extension script.
+  Paste to terminal the voice_extension txt.
   
